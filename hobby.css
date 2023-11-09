@@ -1,0 +1,48 @@
+header{
+    background-color: #000000;
+}
+h1{
+color: white;
+position: relative;
+top: 30px;
+font-size: 2.5rem;
+}
+.nav a{
+    color: white;
+    vertical-align: middle;
+    display: table-cell;
+    position: relative;
+    left: 1000px;
+    bottom: 35px;
+    padding: 0px 20px;
+    font-size: 1.7rem;
+}
+.nav a:hover{
+    background-color: gray;
+    color: #101010;
+}
+img{
+    position: relative;
+    left: 100px;
+    margin-right: 10px;
+}
+.container {
+  overflow: hidden;
+}
+
+.image {
+  float: left;
+  margin-right: 130px;
+}
+
+.text {
+  overflow: hidden;
+  font-size: 1.5rem;
+}
+h2{
+    position: relative;
+    left: 225px;
+    top: 30px;
+    font-size: 2.5rem;
+}
+a{text-decoration: none;}
